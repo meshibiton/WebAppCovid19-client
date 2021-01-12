@@ -1,0 +1,24 @@
+אולי התקנה של ריאקט וnpm 
+
+
+בקובץ אינדקס  פאבליק
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+התקנות  תיקיות
+npm install react-bootstrap bootstrap
+npm install --save reactstrap react react-dom
+npm install --save react-chartjs-2 chart.js
+npm install react-icons --save
+npm install numeral
+npm i react-router-dom
+npm i react-leaflet
+npm i axios
+npm install @material-ui/core
+npm install react-tooltip
+npm install --save react-toastify
+
+
+react-scripts start
+npm start
+
+npm run build
+https://www.youtube.com/watch?v=sBws8MSXN7A&ab_channel=TraversyMedia
