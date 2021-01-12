@@ -1,5 +1,5 @@
 # React COVID Tracker
 Setup:
 
-run npm install
+run npm install & 
 npm start
